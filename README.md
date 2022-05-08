@@ -19,7 +19,9 @@ I'll be uploading my personal projects here and shared througt my social media
 I already uploaded one(Mercadolibre web scraper) and another is coming soon 🚀
 
 # Contact me 📫:
-
+[![Imagen](/images/linkedin.png)](https://www.linkedin.com/in/juan-bertucci-404542204/)
+  [![Imagen](/images/gmail.png)](https://www.linkedin.com/in/juan-bertucci-404542204/)
+    [![Imagen](/images/discord.png)](https://www.linkedin.com/in/juan-bertucci-404542204/)
 <!---
 bertucci25/bertucci25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

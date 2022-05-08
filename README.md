@@ -9,10 +9,14 @@
 - 📫 Find me on discord illogic#7061
 
 ## Skills that im looking to master (This is in constant development):
-- Python 
-- SQL
-- Power BI
-- Excel
+- 🐍Python.
+
+- 🗄️SQL.
+
+- 📊Power BI.
+
+- 📰Excel.
+
 
 ## Projects: 
 I'll be uploading my personal projects here and shared througt my social media 

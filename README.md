@@ -3,8 +3,6 @@
 - 👋 Hi, I’m @bertucci25, i'm from Argentina and i'm starting to upload projects for my online portfolio!
 - 👀 I’m interested in mostly data related projects where i can improve my knowledge about python, sheets, sql, power BI and so on...
 - 💼 I am looking to join a team where I can improve my skills and contribute to their projects.
-
-- 🌱 I’m currently learning python, web scraping using Beautifulsoap and Selenium, also visualization through excel or tableau
 - 💞️ I’m looking to collaborate on anything related! 
 - 📫 Find me on discord illogic#7061
 
